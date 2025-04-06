@@ -1,4 +1,4 @@
-## Olá! Sou João "CiaoCiao" Stopiglia!
+## sup! Sou João "CiaoCiao" Stopiglia!
 
 - 🙂 Studying Systems Development at SENAI
 - 🏙️ Valinhos, SP
