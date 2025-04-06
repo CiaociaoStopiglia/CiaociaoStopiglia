@@ -1,4 +1,13 @@
-## Hi there 👋
+## Olá! Sou João "CiaoCiao" Stopiglia!
+
+- 🙂 Estudando Desenvolvimento de sistemas pelo SENAI
+- 🏙️ Valinhos, sp
+- 🍀 primeiro ano de curso técnico
+
+<div>
+  <a href-"https://beacons.ai/CiaociaoStopiglia">
+  <img height-"180em" src-"https://github-readme-stats.vercel.app/api?username-CiaociaoStopiglia&show_icons-true8theme=dracula&include_all_commits=true&count_private-true">
+  <img height-"180em" src-"https://github-readme-stats.vercel.app/api/top-langs/?username-CiaociaoStopiglia&layout-compact&langs_count-16&theme-dracula">
 
 <!--
 **CiaociaoStopiglia/CiaociaoStopiglia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
