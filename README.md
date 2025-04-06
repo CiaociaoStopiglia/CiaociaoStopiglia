@@ -1,28 +1,23 @@
 ## Olá! Sou João "CiaoCiao" Stopiglia!
 
-- 🙂 Estudando Desenvolvimento de sistemas pelo SENAI
-- 🏙️ Valinhos, sp
-- 🍀 primeiro ano de curso técnico
+- 🙂 Studying Systems Development at SENAI
+- 🏙️ Valinhos, SP
+- 🍀 First year of technical course
 
-<div>
-  <a href-"https://beacons.ai/CiaociaoStopiglia">
-  <img height-"180em" src-"https://github-readme-stats.vercel.app/api?username-CiaociaoStopiglia&show_icons-true8theme=dracula&include_all_commits=true&count_private-true">
-  <img height-"180em" src-"https://github-readme-stats.vercel.app/api/top-langs/?username-CiaociaoStopiglia&layout-compact&langs_count-16&theme-dracula">
+### languages and Tools
+
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<br />
+
+#
+
     
-### 📊 Estatísticas
+### 📊 Stats
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=CiaociaoStopiglia&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=CiaociaoStopiglia&show_icons=true&theme=synthwave)
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=CiaociaoStopiglia&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+
