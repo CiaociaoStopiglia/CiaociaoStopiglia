@@ -18,6 +18,6 @@
     
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=CiaociaoStopiglia&show_icons=true&theme=synthwave)
+![CiaoCiao's GitHub stats](https://github-readme-stats.vercel.app/api?username=CiaociaoStopiglia&show_icons=true&theme=synthwave)
 
 
