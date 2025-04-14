@@ -1,4 +1,16 @@
-## Olá! Sou João "CiaoCiao" Stopiglia!
+<p align="center">
+  <h3 align="center">⌨️ João "CiaoCiao" Stopiglia profile's</h3>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Bem+vindo+ao+meu+perfil!;Welcome+to+my+profile;¡Bienvenido+a+mi+perfil!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+
+  <p align="center">
+  <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discussion & Support Server">
+    <img src="https://img.shields.io/discord/819650821314052106?color=7289DA&logo=discord&logoColor=white&style=for-the-badge"/></a>
+</p>
+
+  ## Olá! Sou João "CiaoCiao" Stopiglia!
 
 - 🙂 Studying Systems Development at SENAI
 - 🏙️ Valinhos, SP
@@ -18,7 +30,7 @@
     
 ### 📊 Stats
 
-![CiaoCiao's GitHub stats](https://github-readme-stats.vercel.app/api?username=CiaociaoStopiglia&show_icons=true&theme=cobalt)
+![CiaoCiao's GitHub stats](https://github-readme-stats.vercel.app/api?username=CiaociaoStopiglia&show_icons=true&theme=merko)
 
 ## Reserve
 @montcastel
