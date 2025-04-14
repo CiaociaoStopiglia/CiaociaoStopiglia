@@ -10,11 +10,11 @@
     <img src="https://img.shields.io/discord/819650821314052106?color=7289DA&logo=discord&logoColor=white&style=for-the-badge"/></a>
 </p>
 
-  ## Olá! Sou João "CiaoCiao" Stopiglia!
+  ## Hello! I'm João "CiaoCiao" Stopiglia!
 
-- 🙂 Studying Systems Development at SENAI
-- 🏙️ Valinhos, SP
-- 🍀 First year of technical course
+- Studying Systems Development at SENAI
+- Valinhos, SP
+- First year of technical course
 
 ### 🧰 Languages and Tools
 
@@ -30,7 +30,7 @@
     
 ### 📊 Stats
 
-![CiaoCiao's GitHub stats](https://github-readme-stats.vercel.app/api?username=CiaociaoStopiglia&show_icons=true&theme=merko)
+![CiaoCiao's GitHub stats](https://github-readme-stats.vercel.app/api?username=CiaociaoStopiglia&show_icons=true&theme=tokyonight)
 
 ## Reserve
 @montcastel
