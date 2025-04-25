@@ -1,20 +1,20 @@
-<p align="center">
-  <h3 align="center">⌨️ João "CiaoCiao" Stopiglia profile's</h3>
-</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Bem+vindo+ao+meu+perfil!;Welcome+to+my+profile;¡Bienvenido+a+mi+perfil!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9AB311&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile!;Bem-vindo+ao+meu+perfil!" alt="Typing SVG" /></a>
 
-  <p align="center">
-  <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discussion & Support Server">
-    <img src="https://img.shields.io/discord/819650821314052106?color=7289DA&logo=discord&logoColor=white&style=for-the-badge"/></a>
+<p align="center">
+  <a href="https://discord.gg/ypCezPTATq" alt="Discord" title="Dev Pro Tips Discussion & Support Server">
+    <img src="https://img.shields.io/discord/819650821314052106?color=3a9e4d&logo=discord&logoColor=white&style=for-the-badge" />
+  </a>
 </p>
+
 
   ## Hello! I'm João "CiaoCiao" Stopiglia!
 
 - Studying Systems Development at SENAI
 - Valinhos, SP
 - First year of technical course
+</p>
 
 ### 🧰 Languages and Tools
 
@@ -25,12 +25,24 @@
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
 
+
+
+  ## Main Repositories 
+  
+
+[![Pokemon Game Card](https://github-readme-stats.vercel.app/api/pin/?username=CiaociaoStopiglia&repo=Pokemon_game&theme=merko)](https://github.com/CiaociaoStopiglia/Pokemon_game)
+
+[![Profile Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=CiaociaoStopiglia&repo=CiaociaoStopiglia&theme=merko)](https://github.com/CiaociaoStopiglia/CiaociaoStopiglia)
+
+
+
+
 #
 
     
 ### 📊 Stats
 
-![CiaoCiao's GitHub stats](https://github-readme-stats.vercel.app/api?username=CiaociaoStopiglia&show_icons=true&theme=tokyonight)
+![CiaoCiao's GitHub stats](https://github-readme-stats.vercel.app/api?username=CiaociaoStopiglia&show_icons=true&theme=merko)
 
 ## Reserve
 @montcastel
