@@ -26,14 +26,26 @@
 <br />
 
 
+<details open> 
+<summary><h2>📗 My Top Open Source Projects</h2></summary>
 
-  ## Main Repositories 
-  
-
-[![Pokemon Game Card](https://github-readme-stats.vercel.app/api/pin/?username=CiaociaoStopiglia&repo=Pokemon_game&theme=merko)](https://github.com/CiaociaoStopiglia/Pokemon_game)
-
-[![Profile Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=CiaociaoStopiglia&repo=CiaociaoStopiglia&theme=merko)](https://github.com/CiaociaoStopiglia/CiaociaoStopiglia)
-
+<p align="center">
+  <a href="https://github.com/CiaociaoStopiglia/While_list.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CiaociaoStopiglia&repo=While_list&theme=merko" />
+  </a>
+  <a href="https://github.com/CiaociaoStopiglia/lista_for.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CiaociaoStopiglia&repo=lista_for&theme=merko" />
+  </a>
+  <a href="https://github.com/CiaociaoStopiglia/Array.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CiaociaoStopiglia&repo=Array&theme=merko" />
+  </a>
+  <a href="https://github.com/CiaociaoStopiglia/Revisao_javascript.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CiaociaoStopiglia&repo=Revisao_javascript&theme=merko" />
+  </a>
+  <a href="https://github.com/CiaociaoStopiglia/listajs.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CiaociaoStopiglia&repo=listajs&theme=merko" />
+  </a>
+</p>
 
 
 
