@@ -20,7 +20,7 @@
 ### 📒 Languages and Tools
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,github,ps)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts)](https://skillicons.dev)
 
 
 <details open> 
