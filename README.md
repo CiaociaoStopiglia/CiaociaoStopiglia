@@ -39,8 +39,8 @@
   <a href="https://github.com/CiaociaoStopiglia/Revisao_javascript.git">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=CiaociaoStopiglia&repo=Revisao_javascript&theme=great-gatsby" />
   </a>
-  <a href="https://github.com/CiaociaoStopiglia/listajs.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CiaociaoStopiglia&repo=listajs&theme=great-gatsby" />
+  <a href="https://github.com/CiaociaoStopiglia/Pokemon_game">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CiaociaoStopiglia&repo=Pokemon_game&theme=great-gatsby" />
   </a>
 </p>
 
