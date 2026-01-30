@@ -50,7 +50,17 @@
 
 ### 📊 Stats
 
-![CiaoCiao's GitHub stats](https://github-readme-stats.vercel.app/api?username=CiaociaoStopiglia&show_icons=true&theme=great-gatsby)
+## 🌟 Star History
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=CiaociaoStopiglia/github-profile-readme-generator&type=Date&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=CiaociaoStopiglia/github-profile-readme-generator&type=Date" />
+  <img alt="GPRG Star History Chart" src="https://api.star-history.com/svg?repos=CiaociaoStopiglia/github-profile-readme-generator&type=Date" />
+</picture>
+
+<hr>
+<p align="center">
+Stay Alive
+</p>
 
 ## Reserve
 @montcastel
