@@ -22,40 +22,15 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,nodejs,npm)](https://skillicons.dev)
 
-
-<details open> 
-<summary><h2>📒 My Top Open Source Projects</h2></summary>
-
-<p align="center">
-  <a href="https://github.com/CiaociaoStopiglia/While_list.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CiaociaoStopiglia&repo=While_list&theme=great-gatsby" />
-  </a>
-  <a href="https://github.com/CiaociaoStopiglia/lista_for.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CiaociaoStopiglia&repo=lista_for&theme=great-gatsby" />
-  </a>
-  <a href="https://github.com/CiaociaoStopiglia/Array.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CiaociaoStopiglia&repo=Array&theme=great-gatsby" />
-  </a>
-  <a href="https://github.com/CiaociaoStopiglia/Revisao_javascript.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CiaociaoStopiglia&repo=Revisao_javascript&theme=great-gatsby" />
-  </a>
-  <a href="https://github.com/CiaociaoStopiglia/Pokemon_game">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CiaociaoStopiglia&repo=Pokemon_game&theme=great-gatsby" />
-  </a>
-</p>
-
 </details>
 
 </details>
 
 ### 📊 Stats
 
-## 🌟 Star History
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=CiaociaoStopiglia/github-profile-readme-generator&type=Date&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=CiaociaoStopiglia/github-profile-readme-generator&type=Date" />
-  <img alt="GPRG Star History Chart" src="https://api.star-history.com/svg?repos=CiaociaoStopiglia/github-profile-readme-generator&type=Date" />
-</picture>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CiaociaoStopiglia&theme=radical" alt="GitHub Streak" />
+</p>
 
 <hr>
 <p align="center">
