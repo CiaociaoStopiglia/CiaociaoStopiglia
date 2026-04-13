@@ -26,7 +26,7 @@
 ## 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CiaociaoStopiglia&theme=sea&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CiaociaoStopiglia&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
