@@ -13,20 +13,9 @@
 
 ---
 
-## 👋 Hey, I'm João "CiaoCiao" Stopiglia!
-
-> *Systems Development student at SENAI · Valinhos, SP · 1st year*
-🏫 School    → SENAI Valinhos
-📍 Location  → Valinhos, SP — Brazil
-📚 Learning  → React, TypeScript, Node.js
-🎯 Goal      → Become a Full Stack Developer
-
-
----
-
 ## 📒 Languages & Tools
 
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,ts,nodejs,npm,react,git,vscode&theme=dark" />
   </a>
@@ -36,7 +25,7 @@
 
 ## 📊 Stats
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CiaociaoStopiglia&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
