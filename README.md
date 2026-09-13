@@ -31,10 +31,18 @@
 
 ---
 
+## 📰 Daily.dev
+
+<p align="center">
+  <a href="https://app.daily.dev/CiaociaoStopiglia">
+    <img src="./stopiglia.png" alt="Daily.dev Card" width="600" />
+  </a>
+</p>
+
+---
+
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy-unserori.vercel.app/?username=CiaociaoStopiglia&column=-1&margin-w=20&margin-h=30&no-bg=true&no-frame=true&theme=oldie" />
   </a>
 </p>
-
-
