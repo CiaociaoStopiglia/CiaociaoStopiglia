@@ -1,14 +1,14 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2776EA&center=true&width=435&lines=Welcome+to+my+profile!;Bem-vindo+ao+meu+perfil!;Always+learning+something+new!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6A00&center=true&width=435&lines=Welcome+to+my+profile!;Bem-vindo+ao+meu+perfil!;Always+learning+something+new!" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://discord.gg/ypCezPTATq" title="Join my Discord server">
-    <img src="https://img.shields.io/badge/Discord-DEV LAB SERVER-2776EA?logo=discord&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Discord-DEV LAB SERVER-FF6A00?logo=discord&logoColor=white&style=for-the-badge" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=CiaociaoStopiglia&color=2776EA&style=for-the-badge" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=CiaociaoStopiglia&color=FF6A00&style=for-the-badge" alt="profile views" />
 </p>
 
 ---
@@ -26,17 +26,7 @@
 ## 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CiaociaoStopiglia&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-## 📰 Daily.dev
-
-<p align="center">
-  <a href="https://app.daily.dev/CiaociaoStopiglia">
-    <img src="./stopiglia.png" alt="Daily.dev Card" width="600" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=CiaociaoStopiglia&theme=shadow-orange&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 
 ---
