@@ -1,32 +1,39 @@
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6A00&center=true&width=435&lines=Welcome+to+my+profile!;Bem-vindo+ao+meu+perfil!;Always+learning+something+new!" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=FF6A00&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+eu+sou+o+Jo%C3%A3o+Stopiglia;Desenvolvedor+Front-end+%26+Designer;Sempre+aprendendo+algo+novo" alt="Olá, eu sou o João Stopiglia" />
 </p>
 
 <p align="center">
-  <a href="https://discord.gg/ypCezPTATq" title="Join my Discord server">
-    <img src="https://img.shields.io/badge/Discord-DEV LAB SERVER-FF6A00?logo=discord&logoColor=white&style=for-the-badge" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=CiaociaoStopiglia&color=FF6A00&style=for-the-badge" alt="profile views" />
-</p>
-
----
-
-## 📒 Languages & Tools
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,ts,nodejs,npm,react,git,vscode&theme=dark" />
-  </a>
+  <a href="https://www.linkedin.com/in/joaostopiglia/"><img src="https://img.shields.io/badge/LinkedIn-FF6A00?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.behance.net/joaostopiglia"><img src="https://img.shields.io/badge/Behance-FF6A00?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" /></a>
+  <a href="https://riffnote.com.br"><img src="https://img.shields.io/badge/RiffNote-FF6A00?style=for-the-badge&logo=googlechrome&logoColor=white" alt="RiffNote" /></a>
+  <a href="mailto:SEU_EMAIL_AQUI"><img src="https://img.shields.io/badge/E--mail-FF6A00?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
 </p>
 
 ---
 
-## 📊 Stats
+## 👋 Sobre mim
+
+Sou estudante de **Desenvolvimento de Software no SENAI Valinhos** e trabalho também com **design gráfico** (identidade visual e social media).
+Gosto de juntar as duas coisas: criar interfaces bem pensadas e colocar elas no ar com código.
+
+- 🔭 Atualmente trabalhando no **[RiffNote](https://riffnote.com.br)**
+- 🌱 Estudando **React, TypeScript e Node.js**
+- 🎯 Aberto a **estágio** em desenvolvimento front-end
+
+---
+
+## 🛠️ Tecnologias
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=CiaociaoStopiglia&theme=shadow-orange&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,git,figma,ps,ai&theme=dark" alt="Tecnologias" />
+</p>
+
+---
+
+## 📊 Estatísticas
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=CiaociaoStopiglia&theme=shadow-orange&border_radius=10&hide_border=true&locale=pt_BR" alt="GitHub Streak" />
 </p>
 
 ---
