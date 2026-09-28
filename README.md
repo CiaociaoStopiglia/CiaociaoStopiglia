@@ -16,7 +16,7 @@
 I'm a **Software Development student at SENAI Valinhos** (Brazil) and I also work as a **graphic designer** (visual identity and social media).
 I enjoy combining both: designing thoughtful interfaces and bringing them to life with code.
 
-- 🔭 Currently working on **[RiffNote](https://riffnote.com.br)**
+- 🔭 Currently working on **[RiffNote](https://riffnote.com.br)** (my own site)
 - 🌱 Learning **React, TypeScript and Node.js**
 - 🎯 Open to **front-end development internships**
 - 🌎 Languages: Portuguese (native), English
