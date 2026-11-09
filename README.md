@@ -1,12 +1,15 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=2EA043&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Jo%C3%A3o+Stopiglia;Front-end+Developer+%26+Designer;Always+learning+something+new" alt="Hi, I'm João Stopiglia" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Jo%C3%A3o+Stopiglia;Front-end+Developer+%26+Designer;Always+learning+something+new" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Jo%C3%A3o+Stopiglia;Front-end+Developer+%26+Designer;Always+learning+something+new" alt="Hi, I'm João Stopiglia" />
+  </picture>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/joaostopiglia/"><img src="https://img.shields.io/badge/LinkedIn-2EA043?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.behance.net/joaostopiglia"><img src="https://img.shields.io/badge/Behance-2EA043?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" /></a>
-  <a href="https://riffnote.com.br"><img src="https://img.shields.io/badge/RiffNote-2EA043?style=for-the-badge&logo=googlechrome&logoColor=white" alt="RiffNote" /></a>
-  <a href="mailto:stopiglia.design@gmail.com"><img src="https://img.shields.io/badge/Email-2EA043?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/joaostopiglia/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.behance.net/joaostopiglia"><img src="https://img.shields.io/badge/Behance-000000?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" /></a>
+  <a href="https://riffnote.com.br"><img src="https://img.shields.io/badge/RiffNote-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="RiffNote" /></a>
+  <a href="mailto:stopiglia.design@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
@@ -34,4 +37,5 @@ I enjoy combining both: designing thoughtful interfaces and bringing them to lif
 ## 📊 GitHub stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=CiaociaoStopiglia&theme=shadow-green&border_radius=10&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=CiaociaoStopiglia&background=000000&border=FFFFFF&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&border_radius=10&hide_border=true" alt="GitHub Streak" />
+</p>
